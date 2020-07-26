@@ -1,0 +1,20 @@
+{
+    "python.pythonPath": "D:\\InnovationOne\\Django\\work_env\\Scripts\\python",
+
+}
+
+1) & D:/InnovationOne/Django/work_env/Scripts/activate.ps1
+
+2)  pip install django
+
+3) django-admin startproject hello_django
+
+4)
+
+
+
+
+python manage.py migrate
+
+user: admin@django.com, 09299510
+Henry, Nefforspid917
